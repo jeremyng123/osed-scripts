@@ -1,0 +1,3 @@
+[submodule "osed"]
+	path = osed
+	url = https://github.com/vpzed/osed.git
